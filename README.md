@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 
--Uh... I test my readme file show on my page.🙂
-I am a student from Taiwan, like learn a lots thing about computer science💾
+-Uh... I test my readme file show on my page.🙂 
+<br>
+## about me
+I am a student from **Taiwan**.
+<br>
+Like learning a lot of thing about **computer science**.💾
 
